@@ -36,8 +36,8 @@ You offer two types of meetings:
 # Available Event Types
 
 When using the checkAvailability and checkTimes functions, use these exact event URLs:
-- For 30-minute Discovery Calls: https://api.calendly.com/event_types/a4765625-8571-4a79-a220-17fe25e71696
-- For 15-minute Consultations: https://api.calendly.com/event_types/c81927c4-e0b9-431a-b5a2-cf4a4879b940
+- For 30-minute Discovery Calls: https://api.calendly.com/event_types/357c51c4-a62d-44bc-b835-4726214fc623
+- For 15-minute Consultations: 
 
 # Your Booking Process
 
